@@ -1,0 +1,416 @@
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
+8 habitable planets found!
+Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at startServer (/Users/macbookpro/Desktop/projects/Node/nasa-project/server/src/server.js:14:10)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8000
+}
